@@ -4,8 +4,6 @@ A responsive-ready landing page built as part of [The Odin Project](https://www.
 
 **🔗 Live demo:** https://luchenko04.github.io/odin-landing-page/
 
-![Preview](images/preview.png)
-
 ## ✨ Features
 
 - Semantic HTML structure: `header`, `nav`, `main`, `section`, `footer`
@@ -50,7 +48,6 @@ Then open `index.html` in your browser.
 
 - Design: [The Odin Project](https://www.theodinproject.com/)
 - Font: [Roboto](https://fonts.google.com/specimen/Roboto) by Google Fonts
-- Images: [Photo title](link-to-photo) by [Author name](link-to-author) on [Unsplash/Pexels]
 
 ## 👤 Author
 
